@@ -1,4 +1,7 @@
-## Introduce My Self
+## 😊 Introduce My Self
+
+> 원티드 2월 프리온보딩 과제입니다. 
+
 
 ## 📝 Requirements
 
